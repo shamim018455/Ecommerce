@@ -1,0 +1,1 @@
+An android e Commerce App in which user can purchase different products. We will also add and implement the android e wallet using android studio. So that user can purchase products online using android e wallet app which we will implement using android studio with firebase database.
